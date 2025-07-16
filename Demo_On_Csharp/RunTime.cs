@@ -64,6 +64,7 @@ namespace Orders_Online
             order.CalculateTotal();                                      // dynamically calls CodOrder
 
             Console.WriteLine();
+            Console.WriteLine();
 
         }
     }
