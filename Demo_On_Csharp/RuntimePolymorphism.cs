@@ -1,5 +1,4 @@
 ﻿using System;
-
 class Restaurant
 {
     public virtual void ShowMenu()
@@ -101,7 +100,6 @@ class Program
     static void Main()
     {
         Console.OutputEncoding = System.Text.Encoding.Unicode;
-        Console.WriteLine(" 🍲 Soup");
 
         Console.WriteLine("Select Restaurant:");
         Console.WriteLine("1.🟢 Veg Restaurant");
